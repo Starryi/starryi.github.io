@@ -105,3 +105,15 @@ deploy:
   type: git
   repo: git@github.com:Starryi/Starryi.github.io.git
   branch: gh-pages
+
+math:
+  katex:
+    css: 'https://cdn.jsdelivr.net/npm/katex/dist/katex.min.css'
+    options:
+      throwOnError: false
+
+markdown:
+  plugins:
+    - name: '@renbaoshuo/markdown-it-katex'
+      options:
+        skipDelimitersCheck: true
