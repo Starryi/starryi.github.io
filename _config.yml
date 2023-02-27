@@ -117,3 +117,7 @@ markdown:
     - name: '@renbaoshuo/markdown-it-katex'
       options:
         skipDelimitersCheck: true
+
+# Filter plantuml
+plantuml:
+  link: "inline"
