@@ -711,9 +711,9 @@ jsonparse@^1.3.1:
   version "1.3.1"
   resolved "https://registry.npmjs.org/jsonparse/-/jsonparse-1.3.1.tgz"
 
-katex@^0.16.10, katex@^0.16.4:
-  version "0.16.11"
-  resolved "https://registry.yarnpkg.com/katex/-/katex-0.16.11.tgz#4bc84d5584f996abece5f01c6ad11304276a33f5"
+katex@^0.16.10, katex@^0.16.20:
+  version "0.16.20"
+  resolved "https://registry.yarnpkg.com/katex/-/katex-0.16.20.tgz#75c741ded0f7ee8d896a1d31bac307e61af863c3"
   dependencies:
     commander "^8.3.0"
 
